@@ -1,4 +1,4 @@
-# Napkin
+# Napkin (much better system for chat compaction and consistent learning) 
 
 A skill for Claude Code that gives the agent persistent memory of its mistakes.
 
